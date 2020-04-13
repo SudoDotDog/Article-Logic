@@ -1,2 +1,0 @@
-# Article-Logic
-:bookmark: Logic
