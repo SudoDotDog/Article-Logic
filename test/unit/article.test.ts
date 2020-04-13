@@ -7,7 +7,7 @@
 
 import { expect } from 'chai';
 import * as Chance from 'chance';
-import { Article } from '../../../src';
+import { Article } from '../../src';
 
 describe('Given an {Article} class', (): void => {
 

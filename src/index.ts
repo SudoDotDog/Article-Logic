@@ -4,7 +4,7 @@
  * @description Index
  */
 
-export * from "./node/article";
+export * from "./article";
 export * from "./node/reference";
 export * from "./node/source";
 
